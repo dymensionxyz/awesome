@@ -19,6 +19,10 @@ List of public resources, documents and tools for dYmension.
 - [Twitter](https://twitter.com/dYmensionXYZ)
 - [Telegram](https://t.me/dYmensionXYZ)
 
+## Best Tweets
+
+- [An Elevator for the Cosmos ecosystem](https://twitter.com/dYmensionXYZ/status/1544319986700877831)
+
 ## International
 
 ### Ukraine
