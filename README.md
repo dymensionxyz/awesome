@@ -9,15 +9,15 @@ List of public resources, documents and tools for dYmension.
 - [Documentation](https://docs.dymension.xyz/)
 - [Medium](https://medium.com/@dymensionxyz)
 
-## Podcasts
-
-- [Cosmos Club - Overview of dYmension](https://twitter.com/CosmosClub_/status/1552926036282802177)
-
 ## Community
 
 - [Discord](https://discord.gg/GbrsdPB6Ge)
 - [Twitter](https://twitter.com/dYmensionXYZ)
 - [Telegram](https://t.me/dYmensionXYZ)
+
+## Podcasts
+
+- [Cosmos Club - Overview of dYmension](https://twitter.com/CosmosClub_/status/1552926036282802177)
 
 ## Best Tweets
 
