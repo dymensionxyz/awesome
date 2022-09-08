@@ -9,6 +9,10 @@ List of public resources, documents and tools for dYmension.
 - [Documentation](https://docs.dymension.xyz/)
 - [Medium](https://medium.com/@dymensionxyz)
 
+## Litepaper
+
+- [Litepaper](https://litepaper.dymension.xyz/)
+
 ## Community
 
 - [Discord](https://discord.gg/GbrsdPB6Ge)
