@@ -8,6 +8,7 @@ List of public resources, documents and tools for dYmension.
 - [Github](https://github.com/dymensionxyz)
 - [Documentation](https://docs.dymension.xyz/)
 - [Medium](https://medium.com/@dymensionxyz)
+- [Roadmap](https://medium.com/@dYmensionXYZ/the-path-forward-revisited-and-updated-1c30b50b1f62)
 
 ## Litepaper
 
@@ -15,7 +16,7 @@ List of public resources, documents and tools for dYmension.
 
 ## Community
 
-- [Discord](https://discord.gg/GbrsdPB6Ge)
+- [Discord](https://discord.gg/dymension)
 - [Twitter](https://twitter.com/dYmensionXYZ)
 - [Telegram](https://t.me/dYmensionXYZ)
 
