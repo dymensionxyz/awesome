@@ -1,4 +1,4 @@
-# Awesome dYmension
+# Awesome Dymension
 
 List of public resources, documents and tools for Dymension.
 
