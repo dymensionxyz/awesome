@@ -22,24 +22,26 @@ List of public resources, documents and tools for Dymension.
 
 ## Podcasts/Videos
 
--   [Cosmos Club - Overview of Dymension](https://twitter.com/CosmosClub_/status/1552926036282802177)
+-   [Celestia spotlight](https://www.youtube.com/watch?v=HsLMDRFMsWY&ab_channel=Celestia)
+-   [Epicenter <> Interop Podcast](https://www.youtube.com/watch?v=O7j-MGbe4-8&ab_channel=EpicenterPodcast)
 -   [Blocmates - What are RollApps?](https://www.youtube.com/watch?v=tNtksk1iMYE&t=19s)
--   [Community AMA # 1](https://twitter.com/dymensionXYZ/status/1592517958508904449?s=20&t=RHRwFMo6_K0F0s2tMTDrCg)
-
-## Best Tweets
-
--   [Litepaper thread](https://twitter.com/dymensionXYZ/status/1565010577432395779?s=20&t=RHRwFMo6_K0F0s2tMTDrCg)
--   [An Elevator for the Cosmos ecosystem](https://twitter.com/dymensionXYZ/status/1544319986700877831)
--   [Why rollups in the Cosmos?](https://twitter.com/shaolin_flow/status/1588980540413448192?s=20&t=OPMAga7jw1Tje7_Cia-n8A)
 
 ## International
+
+### Spanish
+
+-   [Twitter](https://twitter.com/dymension_Esp)
+-   [Telegram](https://t.me/dYmensionXYZ_ES)
+-   [Medium](https://medium.com/dymension-espa%C3%B1ol)
 
 ### Ukraine
 
 -   [Twitter](https://twitter.com/dymensionUA)
 -   [Medium](https://medium.com/@dymensionUA)
 
-### Spanish
+### EVM RollApp 35-C
 
--   [Twitter](https://twitter.com/dymension_Esp)
--   [Medium](https://medium.com/dymension-espa%C3%B1ol)
+-   Network name: EVM RollApp 35-C
+-   RPC URL: https://evmrpc-rollappevm-35c.dymension.xyz
+-   Chain ID: 600
+-   Currency symbol: tEVMOS
