@@ -39,7 +39,7 @@ List of public resources, documents and tools for Dymension.
 -   [Twitter](https://twitter.com/dymensionUA)
 -   [Medium](https://medium.com/@dymensionUA)
 
-### EVM RollApp 35-C
+## EVM RollApp 35-C
 
 -   Network name: EVM RollApp 35-C
 -   RPC URL: https://evmrpc-rollappevm-35c.dymension.xyz
