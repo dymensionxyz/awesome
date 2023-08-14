@@ -17,7 +17,7 @@ List of public resources, documents and tools for Dymension.
 ## Community
 
 -   [Discord](https://discord.gg/dymension)
--   [Twitter](https://twitter.com/dymensionXYZ)
+-   [Twitter](https://twitter.com/dymension)
 -   [Telegram](https://t.me/dymensionXYZ)
 
 ## Podcasts/Videos
