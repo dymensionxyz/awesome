@@ -7,7 +7,7 @@ List of public resources, documents and tools for Dymension.
 -   [Website](https://www.dymension.xyz/)
 -   [Github](https://github.com/dymensionxyz)
 -   [Documentation](https://docs.dymension.xyz/)
--   [Medium](https://medium.com/@dymensionxyz)
+-   [Medium](https://medium.com/@dYmension)
 -   [Roadmap](https://medium.com/@dymensionXYZ/the-path-forward-revisited-and-updated-1c30b50b1f62)
 
 ## Litepaper
