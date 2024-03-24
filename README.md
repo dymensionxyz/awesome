@@ -30,7 +30,7 @@ List of public resources, documents and tools for Dymension.
 
 ### Spanish
 
--   [Twitter](https://twitter.com/dymension_Esp)
+-   [Twitter](https://twitter.com/dymensionesp)
 -   [Telegram](https://t.me/dYmensionXYZ_ES)
 -   [Medium](https://medium.com/dymension-espa%C3%B1ol)
 
